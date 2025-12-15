@@ -26,6 +26,6 @@ Sankey 📔
 - [Plants](https://nhpho.github.io/nhpho/PLGCombo.html)
 
 ## Full Dataset Sankeys 
-- [Biology]()
-- [Externalities]()
-- [Legislation]()
+- [Biology](https://nhpho.github.io/nhpho/Biologyfull.html)
+- [Externalities](https://nhpho.github.io/nhpho/Extfullfull.html)
+- [Legislation](https://nhpho.github.io/nhpho/Legislationfull.html)
