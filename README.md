@@ -27,5 +27,5 @@ Sankey 📔
 
 ## Full Dataset Sankeys 
 - [Biology](https://nhpho.github.io/nhpho/Biologyfull.html)
-- [Externalities](https://nhpho.github.io/nhpho/Extfullfull.html)
+- [Externalities](https://nhpho.github.io/nhpho/Extfull.html)
 - [Legislation](https://nhpho.github.io/nhpho/Legislationfull.html)
